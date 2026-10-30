@@ -40,7 +40,9 @@ Remove These Lines
 Fasal Points, with no new fleet or dark stores. There are roughly 5.4 lakh Fair Price Shops, over 99% with e-PoS devices, and they sit under the same ministry that posed this problem. A fixed-day “Farm Run” works like a bus timetable, and route optimization designs the timetable instead of dispatching on demand.
 Glut Switch. When AI forecasts a surplus in a cluster, it triggers flash pools, institutional buyers, FPO processing and storage-backed credit. This targets the 2026 pattern where farmers dumped onions and destroyed potato crops while retail prices stayed high. It also gives the Dept. of Consumer Affairs an early-warning feed for Price Stabilisation Fund decisions.
 
-2. METHODOLOGY: Pool opens → buyers commit → AI sizes harvest per FPO → farmers confirm → hub grading → Farm Run to Fasal Points → pickup and UPI escrow release → Glut Switch and data feed back into forecasts. A working MVP covers pool creation, a forecast demo for tomato, onion and potato, a timetable optimizer, and a dashboard.
+![flow_chart](FLOWCHART.png)
+
+3. METHODOLOGY: Pool opens → buyers commit → AI sizes harvest per FPO → farmers confirm → hub grading → Farm Run to Fasal Points → pickup and UPI escrow release → Glut Switch and data feed back into forecasts. A working MVP covers pool creation, a forecast demo for tomato, onion and potato, a timetable optimizer, and a dashboard.
 
 ## Feasibility and Viability
 1. FEASIBILITY: The technology is mature. FPS automation and AgriStack are already in place. The pilot starts in one cluster and one city with willing FPS and FPO partners. Revenue is a small commission plus service fees to Fasal Points.
